@@ -35,6 +35,7 @@ namespace Facturas
             }catch(Exception ex)
             {
                 MessageBox.Show("LO SENTIMOS HEMOS TENIDO UN PROBLEMA \n" + ex.Message);
+
             }
         }
 
@@ -52,6 +53,11 @@ namespace Facturas
                 fact = new LeerFacturaComprobantePago();
                 string tipfact = fact.tipoFactura(txtFile.Text);
                 Comprobante comp = fact.getComprobante;
+                if(!(comp.TipoDeComprobante== "P"|| comp.TipoDeComprobante == "p"))
+                {
+                    MessageBox.Show("SOLO SE PERMITEN COMPROBANTE DE PAGO");
+                    return;
+                }
                 qr_generate qr = new qr_generate();
                 string qrstring;
                 qrstring =

@@ -25,7 +25,6 @@ C:\Users\Hilda\Source\Repos2\GeneradorPDF\Facturas\Facturas\bin\Release\Shockwav
 C:\Users\Hilda\Source\Repos2\GeneradorPDF\Facturas\Facturas\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
 C:\Users\Hilda\Source\Repos2\GeneradorPDF\Facturas\Facturas\bin\Release\stdole.dll
 C:\Users\Hilda\Source\Repos2\GeneradorPDF\Facturas\Facturas\bin\Release\IronPdf.xml
-C:\Users\Hilda\Source\Repos2\GeneradorPDF\Facturas\Facturas\obj\Release\Facturas.csprojResolveAssemblyReference.cache
 C:\Users\Hilda\Source\Repos2\GeneradorPDF\Facturas\Facturas\obj\Release\Facturas.Form1.resources
 C:\Users\Hilda\Source\Repos2\GeneradorPDF\Facturas\Facturas\obj\Release\Facturas.Properties.Resources.resources
 C:\Users\Hilda\Source\Repos2\GeneradorPDF\Facturas\Facturas\obj\Release\Facturas.csproj.GenerateResource.Cache
@@ -33,3 +32,8 @@ C:\Users\Hilda\Source\Repos2\GeneradorPDF\Facturas\Facturas\obj\Release\Facturas
 C:\Users\Hilda\Source\Repos2\GeneradorPDF\Facturas\Facturas\obj\Release\Facturas.pdb
 C:\Users\Hilda\Source\Repos2\GeneradorPDF\Facturas\Facturas\obj\Release\Facturas.XMLVarios.resources
 C:\Users\Hilda\Source\Repos2\GeneradorPDF\Facturas\Facturas\obj\Release\Facturas.menu.resources
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\Facturas\Facturas\bin\Release\Facturas.exe.manifest
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\Facturas\Facturas\bin\Release\Facturas.application
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\Facturas\Facturas\obj\Release\Facturas.exe.manifest
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\Facturas\Facturas\obj\Release\Facturas.application
+C:\Users\Hilda\Source\Repos2\GeneradorPDF\Facturas\Facturas\obj\Release\Facturas.csprojResolveAssemblyReference.cache

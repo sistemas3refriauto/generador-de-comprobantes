@@ -52,13 +52,13 @@
             this.txtFile.Location = new System.Drawing.Point(69, 34);
             this.txtFile.Name = "txtFile";
             this.txtFile.ReadOnly = true;
-            this.txtFile.Size = new System.Drawing.Size(693, 20);
+            this.txtFile.Size = new System.Drawing.Size(492, 20);
             this.txtFile.TabIndex = 1;
             // 
             // button1
             // 
             this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.button1.Location = new System.Drawing.Point(768, 24);
+            this.button1.Location = new System.Drawing.Point(567, 24);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(58, 38);
             this.button1.TabIndex = 2;
@@ -78,7 +78,7 @@
             this.crystalReportViewer1.DisplayToolbar = false;
             this.crystalReportViewer1.Location = new System.Drawing.Point(12, 109);
             this.crystalReportViewer1.Name = "crystalReportViewer1";
-            this.crystalReportViewer1.Size = new System.Drawing.Size(823, 482);
+            this.crystalReportViewer1.Size = new System.Drawing.Size(622, 230);
             this.crystalReportViewer1.TabIndex = 9;
             this.crystalReportViewer1.ToolPanelView = CrystalDecisions.Windows.Forms.ToolPanelViewType.None;
             // 
@@ -106,7 +106,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(838, 603);
+            this.ClientSize = new System.Drawing.Size(637, 351);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.crystalReportViewer1);
@@ -115,7 +115,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Facturacion";
+            this.Text = "Generador - v 5.0.0.3";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
