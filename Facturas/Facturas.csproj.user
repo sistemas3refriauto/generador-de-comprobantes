@@ -5,7 +5,7 @@
     <PublishUrlHistory>C:\instalador generador 5\|publish\</PublishUrlHistory>
     <InstallUrlHistory />
     <SupportUrlHistory />
-    <UpdateUrlHistory>http://sia6.refriauto.com.mx/Generador5/</UpdateUrlHistory>
+    <UpdateUrlHistory>http://sia6.refriauto.com.mx/generador5/|http://sia6.refriauto.com.mx/Generador5/</UpdateUrlHistory>
     <BootstrapperUrlHistory />
     <ErrorReportUrlHistory />
     <FallbackCulture>en-US</FallbackCulture>
